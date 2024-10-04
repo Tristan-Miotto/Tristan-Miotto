@@ -19,7 +19,7 @@ With the mathematical theory behind every model.
 
 
 ---
-- 🌱 I’m also studying, with students from a Master's degree in Mathematics (M2)...
+- 🌱 I’m also studying, in my Master's degree in Mathematics (M2)...
 
   - **Partial Differential Equations (PDE)**
   - **Stochastic Differential Equations (SDE)**
