@@ -3,7 +3,7 @@
 
 ---
 
-- 👨‍💻 My education in Polytech Clermont has provided me with expertise in...
+- 👨‍💻 My education in Polytech Clermont (France) has provided me with expertise in...
 
   - **Deep Learning** (RNN, VAEs, Transformers)
   - **Other Machine Learning models** (PCA, SVM, K-means, Mixture Models...)
