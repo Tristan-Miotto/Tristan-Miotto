@@ -17,8 +17,13 @@ With the mathematical theory behind every model.
   - **Generative Adversarial Network (GANs)**
   - **Mixed models and experimental design**
 
+---
+
+🚀 Here are some of my projects:
+- [Data Sport Visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing sports (especially running) data and tracking performance
 
 ---
+
 - 🌱 I’m also studying, in my Master's degree in Mathematics (M2)...
 
   - **Partial Differential Equations (PDE)**
