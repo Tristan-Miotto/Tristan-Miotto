@@ -5,8 +5,8 @@
 
 - 👨‍💻 My education in Polytech Clermont (France) has provided me with expertise in...
 
-  - **Deep Learning** (RNN, VAEs, Transformers)
-  - **Other Machine Learning models** (PCA, SVM, K-means, Mixture Models...)
+  - **Deep Learning** (RNN, VAEs, Transformers).
+  - **Other Machine Learning models** (PCA, SVM, K-means, Mixture Models...).
  
 With the mathematical theory behind every model.
 
@@ -14,21 +14,22 @@ With the mathematical theory behind every model.
 
 - 🌱 I'm currently learning, in my engineering school...
 
-  - **Generative Adversarial Network (GANs)**
-  - **Mixed models and experimental design**
+  - **Generative Adversarial Network (GANs)**.
+  - **Mixed models and experimental design**.
 
 ---
 
 🚀 Here are some of my projects:
-- [Data Sport Visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing my sports (especially running) data [personal project / 2024]
+- [Data Sport Visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing my sports (especially running) data.
+  This is a personal project developed in 2024.
 
 ---
 
 - 🌱 I’m also studying, in my Master's degree in Mathematics (M2)...
 
-  - **Partial Differential Equations (PDE)**
-  - **Stochastic Differential Equations (SDE)**
-  - **Deterministic mathematical models in biology**
+  - **Partial Differential Equations (PDE)**.
+  - **Stochastic Differential Equations (SDE)**.
+  - **Deterministic mathematical models in biology**.
  
 ---
 
