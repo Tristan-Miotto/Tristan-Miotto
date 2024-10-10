@@ -20,7 +20,7 @@ With the mathematical theory behind every model.
 ---
 
 🚀 Here are some of my projects:
-- [Data Sport Visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing my sports (especially running) data.  
+- [Data sport visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing my sports (especially running) data.  
     → Personal project developed in 2024.
 
 ---
