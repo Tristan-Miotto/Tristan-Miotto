@@ -20,8 +20,10 @@ With the mathematical theory behind every model.
 ---
 
 🚀 Here are some of my projects:
+
 - [Sound generation](https://github.com/Tristan-Miotto/sound-generation) - Building a VAE that generates virtual voices pronouncing a digit.  
     → Group project (Clement Souvignet and I) developed in 2023.
+  
 - [Data sport visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing my sports (especially running) data.  
     → Personal project developed in 2024.
 
