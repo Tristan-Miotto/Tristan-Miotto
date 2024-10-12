@@ -27,6 +27,9 @@ With the mathematical theory behind every model.
 - [Data sport visualisation](https://github.com/Tristan-Miotto/data-sport-visualisation) - A tool for visualizing my sports (especially running) data.  
     → Personal project developed in 2024.
 
+- [The chaos game](https://github.com/Tristan-Miotto/chaos-game) - Implementation of the chaos game and the Barnsley fern, with animations.  
+  → Personal project developed in 2024.
+
 ---
 
 - 🌱 I’m also studying, in my Master's degree in Mathematics (M2)...
