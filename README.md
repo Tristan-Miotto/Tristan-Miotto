@@ -14,7 +14,7 @@ With the mathematical theory behind every model.
 
 - 🌱 I'm currently learning, in my engineering school...
 
-  - **Generative Adversarial Network (GANs)**.
+  - **Generative Adversarial Networks (GANs)**.
   - **Mixed models and experimental design**.
 
 ---
